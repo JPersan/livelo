@@ -46,9 +46,9 @@ PRODUTOS = {
       qtdePonto: '2.400 Pontos'
     },
     j: {
-      url: 'product/LVL2329231',
-      nomeDescricao: 'Pasta Executiva Sestini 1 Compartimentos Alliance M1 020671-01',
-      qtdePonto: '7.000 Pontos'
+      url: 'product/LVL18906764',
+      nomeDescricao: 'Case para Notebook Lenovo até 15.6" Urban Sleeve - GX40Z50942',
+      qtdePonto: '8.800 Pontos'
     },
   },
 }
