@@ -3,6 +3,6 @@ rerun.txt
 gemfile.lock
 debug.log
 #*.html
-*.png
-report.json
-*.png
+#*.png
+#report.json
+#*.png
