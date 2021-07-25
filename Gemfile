@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'capybara', '3.29.0'
+gem 'chromedriver-helper', '2.1.1'
+gem 'cucumber', '3.1.2'
+gem 'ffi', '1.15.0'
+gem 'pry', '0.13.1'
+gem 'report_builder', '1.9'
+gem 'selenium-webdriver', '3.142.7'
+gem 'site_prism', '3.2'

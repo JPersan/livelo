@@ -1,0 +1,11 @@
+## Scripts para execução local
+qalivelo:        -p pretty -p local -p marketplace -p livelo -p json -t 'not @livelo' -t 'not @blocked'
+
+#####
+marketplace:       SQD=marketplace
+livelo:            LIVELO=livelo
+
+pretty:            --format pretty
+json:              --format json --out=results/report.json
+local:             BROWSER=local
+
