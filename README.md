@@ -1,5 +1,5 @@
 # Teste Automação Livelo
-> Marketplace
+> Carrinho de Compras
 
 ## Índices
 - [Guia de instalação](#installation)
